@@ -1,0 +1,6 @@
+{
+  "name": "SmartCalc – All-in-One Calculator",
+  "description": "A fast, accurate all-in-one calculator suite for students, competitive exams, finance, unit conversions, and everyday math.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
